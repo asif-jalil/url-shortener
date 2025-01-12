@@ -11,7 +11,7 @@ const Header = () => (
 					Generate a temporary short URL for your long links and share them easily.
 				</p>
 				<Link
-					href="https://github.com/asif-jalil/placeholder-image-maker"
+					href="https://github.com/asif-jalil/url-shortener"
 					target="_blank"
 					className="inline-flex gap-2 items-center px-5 py-1.5 border rounded-xl hover:bg-slate-100"
 				>
