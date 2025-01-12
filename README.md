@@ -31,6 +31,18 @@ Install dependencies
 
 Copy `.env.example` to `.env` and fill credential
 
+Generate prisma instance
+
+```bash
+  npx prisma generate
+```
+
+Prepare database
+
+```bash
+ npm run db:baseline
+```
+
 Start the server
 
 ```bash
